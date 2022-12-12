@@ -1,2 +1,2 @@
-echo name: $1 > .env
-echo os: $2 >> .env
+echo name: $1 
+echo os: $2
