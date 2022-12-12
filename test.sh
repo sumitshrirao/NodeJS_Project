@@ -1,2 +1,2 @@
-echo name: $1 
+echo name: sumit > .env
 echo os: $2
