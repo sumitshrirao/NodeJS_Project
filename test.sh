@@ -1,2 +1,2 @@
-name: ${name} >> .env
-os: ${os} > .env
+name: ${env.name} >> .env
+os: ${env.os} > .env
