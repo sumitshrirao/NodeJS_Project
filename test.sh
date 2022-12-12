@@ -1,2 +1,2 @@
-name: ${env.name} >> .env
-os: ${env.os} > .env
+echo name: $1 > .env
+echo os: $2 >> .env

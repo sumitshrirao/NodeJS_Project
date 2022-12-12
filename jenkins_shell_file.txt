@@ -1,0 +1,4 @@
+echo "Below is the name and os"
+name="sumit"
+os="ubuntu"
+sh test.sh ${name} ${os}
