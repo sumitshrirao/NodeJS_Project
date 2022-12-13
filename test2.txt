@@ -1,3 +1,6 @@
 a=$1
 b=$2
 echo a is $a and b is $b
+echo name=$a > .env
+echo os=$b > .env
+cat .env
